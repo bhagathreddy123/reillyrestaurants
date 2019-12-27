@@ -18,6 +18,7 @@ gem 'rails_admin'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
+gem 'react-rails'
 # bundle exec rake doc:rails generates the API under doc/api.
 
 # Use ActiveModel has_secure_password
