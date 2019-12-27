@@ -7,11 +7,11 @@ var Comment = createReactClass({
 
   render: function() {
     return (
-      <React.Fragment>
+      <div>
         <div>Autor: {this.props.author}</div>
         <div>Body: {this.props.body}</div>
         <div>Rank: {this.props.rank}</div>
-      </React.Fragment>
+      </div>
     );
   }
 });
